@@ -1,0 +1,29 @@
+fav_genre,bpm,effects,music_id
+Latin                                   ,156,,1
+Rock                                    ,119,,2
+Video game music                        ,132,No effect                               ,3
+Jazz                                    ,84,Improve                                 ,4
+R&B                                     ,107,Improve                                 ,5
+Jazz                                    ,86,Improve                                 ,6
+Video game music                        ,66,Improve                                 ,7
+Pop                                     ,,Worsen                                  ,8
+Rap                                     ,99,Improve                                 ,9
+Hip hop                                 ,120,Improve                                 ,10
+Hip hop                                 ,120,Improve                                 ,11
+Rap                                     ,125,Improve                                 ,12
+R&B                                     ,118,Improve                                 ,13
+Pop                                     ,79,No effect                               ,14
+Rock                                    ,84,Improve                                 ,15
+Pop                                     ,169,Improve                                 ,16
+Rock                                    ,136,Improve                                 ,17
+Pop                                     ,101,Improve                                 ,18
+Pop                                     ,126,Improve                                 ,19
+Pop                                     ,183,Improve                                 ,20
+Rock                                    ,,Improve                                 ,21
+Classical                               ,120,No effect                               ,22
+Metal                                   ,,Improve                                 ,23
+Rock                                    ,142,Improve                                 ,24
+Classical                               ,75,No effect                               ,25
+Pop                                     ,120,Improve                                 ,26
+Pop                                     ,89,Improve                                 ,27
+Pop                                     ,,No effect                               ,28
